@@ -1,0 +1,9 @@
+Invoice Number,Due Date,Price,Total,Category,Verified,Payment Overdue,Payment Status
+AMD2-18971,19.02.2025,512.5,3574.0,Craft and Hobby,False,Yes,Pending
+AMD2-18973,19.02.2025,512.5,3835.5,Arts and Crafts,False,Yes,Pending
+12074,7/19/24,1500.0,2388.0,Photography Service,True,Yes,Pending
+12074,7/19/24,500.0,2388.0,Photography Service,True,Yes,Pending
+12074,7/19/24,300.0,2388.0,Photography Service,True,Yes,Pending
+12074,7/19/24,1500.0,2388.0,Photography Service,True,Yes,Pending
+12074,7/19/24,500.0,2388.0,Photography Service,True,Yes,Pending
+12074,7/19/24,300.0,2388.0,Photography Service,True,Yes,Pending

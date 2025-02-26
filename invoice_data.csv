@@ -1,0 +1,13 @@
+Invoice Number,Due Date,Description,Quantity,Price,Subtotal,Tax,Total,Category,Verified
+AMD2-18971,19.02.2025,HASTHIP® Colorful Elephants DI...,1,512.5,512.5,261.5,3574.0,Craft and Hobby,False
+AMD2-18973,19.02.2025,HASTHIP® Colorful Elephants DI...,1,512.5,3574.0,261.5,3835.5,Arts and Crafts,False
+
+12074,7/19/24,Wedding Ceremony Photos,1,1500.0,2300.0,138.0,2388.0,Photography Service,True
+12074,7/19/24,Bride & Groom Portraits,1,500.0,2300.0,138.0,2388.0,Photography Service,True
+12074,7/19/24,Engagement Photoshoot,1,300.0,2300.0,138.0,2388.0,Photography Service,True
+12074,7/19/24,Wedding Ceremony Photos,1,1500.0,2300.0,138.0,2388.0,Photography Service,True
+12074,7/19/24,Bride & Groom Portraits,1,500.0,2300.0,138.0,2388.0,Photography Service,True
+12074,7/19/24,Engagement Photoshoot,1,300.0,2300.0,138.0,2388.0,Photography Service,True
+12074,7/19/24,Wedding Ceremony Photos,1,1500.0,2300.0,138.0,2388.0,Photography Service,False
+12074,7/19/24,Bride & Groom Portraits,1,500.0,2300.0,138.0,2388.0,Photography Service,True
+12074,7/19/24,Engagement Photoshoot,1,300.0,2300.0,138.0,2388.0,Photography Service,True

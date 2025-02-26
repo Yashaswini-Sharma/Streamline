@@ -1,0 +1,8 @@
+pytesseract
+Pillow
+requests
+pandas
+google-cloud-aiplatform
+google-generativeai
+pdf2image
+python-poppler
