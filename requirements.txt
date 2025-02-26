@@ -1,8 +1,7 @@
-pytesseract
-Pillow
-requests
-pandas
-google-cloud-aiplatform
-google-generativeai
-pdf2image
-python-poppler
+streamlit==1.42.2
+python-dotenv==1.0.1
+pandas==2.2.3
+Pillow==11.1.0
+pytesseract==0.3.13
+google-generativeai==0.8.4
+matplotlib==3.10.0

@@ -79,15 +79,15 @@ streamlit run app.py
 
 ## Requirements
 
-Create a `requirements.txt` file with:
+The `requirements.txt` file contains:
 ```
-streamlit
-python-dotenv
-pandas
-Pillow
-pytesseract
-google-generativeai
-matplotlib
+streamlit==1.42.2
+python-dotenv==1.0.1
+pandas==2.2.3
+Pillow==11.1.0
+pytesseract==0.3.13
+google-generativeai==0.8.4
+matplotlib==3.10.0
 ```
 
 ## Usage
