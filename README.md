@@ -25,7 +25,7 @@ brew install tesseract
 
 2. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Yashaswini-Sharma/Streamline
 cd ggh
 ```
 
