@@ -1,6 +1,6 @@
 # Green Goals Helper (GGH)
 
-A tool to analyze invoices and verify purchases against company sustainability goals to help identify fraudulent behavior.
+A tool to analyze invoices and verify purchases against company sustainability goals.
 
 ## Demo Video
 
@@ -10,6 +10,13 @@ Watch a demonstration of the Green Goals Helper in action:
 
 [![Demo Video](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Kz7YBiLT4-nGxouNvckboLn3FVevzwr0/view?usp=sharing)
 
+## System Architecture
+
+Below is the system architecture diagram showing the flow of our web application:
+
+![System Architecture](sp.png)
+
+*System architecture diagram showing the flow of data and components interaction in Green Goals Helper*
 
 ## Prerequisites
 
