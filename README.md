@@ -1,6 +1,6 @@
 # Green Goals Helper (GGH)
 
-A tool to analyze invoices and verify purchases against company sustainability goals.
+A tool to analyze invoices and verify purchases against company sustainability goals to help identify fraudulent behavior.
 
 ## Demo Video
 
