@@ -2,6 +2,15 @@
 
 A tool to analyze invoices and verify purchases against company sustainability goals.
 
+## Demo Video
+
+Watch a demonstration of the Green Goals Helper in action:
+
+[📺 Watch Demo Video](https://drive.google.com/file/d/1Kz7YBiLT4-nGxouNvckboLn3FVevzwr0/view?usp=sharing)
+
+[![Demo Video](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Kz7YBiLT4-nGxouNvckboLn3FVevzwr0/view?usp=sharing)
+
+
 ## Prerequisites
 
 - Python 3.11 or higher
@@ -96,6 +105,7 @@ matplotlib==3.10.0
 2. Upload an invoice image (supported formats: PNG, JPG, JPEG, WEBP)
 3. Click "Extract Data" to process the invoice
 4. Review results and check for any suspicious items
+
 
 ## Troubleshooting
 
