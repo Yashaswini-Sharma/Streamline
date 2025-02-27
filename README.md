@@ -1,4 +1,4 @@
-# Green Goals Helper (GGH)
+# Google Girl Hackathon - Streamline
 
 A tool to analyze invoices and verify purchases against company sustainability goals.
 
